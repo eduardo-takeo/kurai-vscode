@@ -1,13 +1,30 @@
 {
   "name": "kurai",
-  "displayName": "Kurai",
-  "description": "A dark theme for VSCode",
+  "displayName": "Kurai Theme",
+  "description": "A dark minimal theme for VSCode",
+  "publisher": "eduardo-takeo",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Eduardo Takeo",
+    "email": "eduardo.higashi.dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardo-takeo/kurai-vscode"
+  },
+  "homepage": "https://github.com/eduardo-takeo/kurai-vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Kurai"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +34,8 @@
         "path": "./themes/Kurai-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.17.0"
   }
 }
