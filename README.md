@@ -20,8 +20,9 @@
 
 ### Syntax Colors
 
-| Color | Usage |
-| :---: | ----- |
+|                                 Color                                  | Usage    |
+| :--------------------------------------------------------------------: | -------- |
+| ![#7F7F7F](https://via.placeholder.com/10/7F7F7F.png?text=+) `#7F7F7F` | Comments |
 
 Under construction 🚧
 
