@@ -28,7 +28,8 @@
     "breadcrumb.foreground": "#bdbdbd",
 
     // statusbar
-    "statusBar.background": "#F10086"
+    "statusBar.background": "#F10086",
+    "statusBar.debuggingBackground": "#ff73c0"
   },
   "tokenColors": [
     {
@@ -36,7 +37,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#7F7F7F"
       }
     },
     {
