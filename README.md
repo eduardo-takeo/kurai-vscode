@@ -14,7 +14,7 @@
 2. Search for `Kurai`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **Kurai**
 
 ## Color Reference
 
