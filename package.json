@@ -35,6 +35,9 @@
       }
     ]
   },
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "devDependencies": {
     "@vscode/vsce": "^2.17.0"
   }
