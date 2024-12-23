@@ -2,34 +2,43 @@
   "name": "Kurai",
   "colors": {
     // editor
-    "editor.background": "#180A0A",
+    "editor.background": "#050505",
     "editor.foreground": "#bdbdbd",
+    "editor.selectionBackground": "#333333",
     "editorLineNumber.foreground": "#6c6c6c",
 
     // activity bar
-    "activityBarBadge.background": "#F10086",
-    "activityBar.background": "#180A0A",
+    "activityBarBadge.background": "#050505",
+    "activityBar.background": "#050505",
+    "activityBar.foreground": "#EEEEEE",
 
     // sidebar
-    "sideBar.background": "#180A0A",
+    "sideBar.background": "#050505",
     "sideBarTitle.foreground": "#bdbdbd",
-    "sideBarSectionHeader.background": "#111111",
-    "sideBar.foreground": "#d5d5d5",
-    "sideBarSectionHeader.foreground": "#ffffff",
+    "sideBarSectionHeader.background": "#050505",
+    "sideBar.foreground": "#bdbdbd",
+    "sideBarSectionHeader.foreground": "#EEEEEE",
 
     // tab
-    "tab.activeBackground": "#180A0A",
-    "tab.inactiveBackground": "#2a2a2a",
+    "tab.activeBackground": "#1a1a1a",
+    "tab.inactiveBackground": "#050505",
+    "editorGroupHeader.tabsBackground": "#050505",
 
-    // buttons
-    "button.background": "#F10086",
+    // titlebar
+    "titleBar.inactiveBackground": "#050505",
+    "titleBar.activeBackground": "#050505",
 
     // breadcrumb
     "breadcrumb.foreground": "#bdbdbd",
 
     // statusbar
-    "statusBar.background": "#F10086",
-    "statusBar.debuggingBackground": "#ff73c0"
+    "statusBar.background": "#050505",
+    "statusBar.debuggingBackground": "#333333",
+
+    // buttons
+    "button.background": "#333333",
+
+    "keybindingLabel.background": "#333333"
   },
   "tokenColors": [
     {
