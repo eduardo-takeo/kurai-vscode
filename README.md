@@ -1,14 +1,17 @@
-<h1 align="center">
-  Kurai Theme for VS Code
-</h1>
 <p align="center">
   <img alt="Kurai Logo" src="https://raw.githubusercontent.com/eduardo-takeo/kurai-vscode/main/images/logo.png" width="100" />
 </p>
+<h1 align="center">
+  Kurai Theme
+</h1>
 <p align="center">
   A minimal, dark theme for VS Code.
 </p>
+<p align="center">
+  <img alt="Kurai theme" src="https://raw.githubusercontent.com/eduardo-takeo/kurai-vscode/main/images/screenshot.png" width="300" />
+</p>
 
-## Installation via VS Code
+## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Kurai`
@@ -16,18 +19,6 @@
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Kurai**
 
-## Color Reference
+## License
 
-### Syntax Colors
-
-|                                 Color                                  | Usage    |
-| :--------------------------------------------------------------------: | -------- |
-| ![#7F7F7F](https://via.placeholder.com/10/7F7F7F.png?text=+) `#7F7F7F` | Comments |
-
-Under construction 🚧
-
-### UI Colors
-
-|                                 Color                                  | Usage                          |
-| :--------------------------------------------------------------------: | ------------------------------ |
-| ![#180A0A](https://via.placeholder.com/10/180A0A.png?text=+) `#180A0A` | Editor/Sidebar/Tabs background |
+[MIT License](https://github.com/eduardo-takeo/kurai-vscode/blob/main/LICENSE)
