@@ -8,7 +8,7 @@
   A minimal, dark theme for VS Code.
 </p>
 <p align="center">
-  <img alt="Kurai theme" src="https://raw.githubusercontent.com/eduardo-takeo/kurai-vscode/main/images/screenshot.png" width="300" />
+  <img alt="Kurai theme" src="https://raw.githubusercontent.com/eduardo-takeo/kurai-vscode/main/images/screenshot.png" />
 </p>
 
 ## Installation
